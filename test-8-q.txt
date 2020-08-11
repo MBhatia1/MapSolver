@@ -1,0 +1,8 @@
+7 5 5
+//a test case
+//a test
+a@###
+A#Ef#
+b#eFg
+B#D#G
+cCd#?
