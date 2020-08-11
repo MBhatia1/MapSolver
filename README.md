@@ -14,4 +14,4 @@ The objective of the puzzle game is for the player to reach the exit. The player
 
 The map solver takes a text file as input. Reads in 3 ints from the first line, representing the number of colors in the level, and the x and y dimensions of the level respectively. Ignores all comments. Underneath, the program reads in a map drawn in ASCII, and will generate the fastest solution (if possible) to the level. The solution is sent to terminal output.
 
-Unfortuantely, due to the honor code at my school, I cannot post this project for the time being. If you are a recruiter and would like to see this project, please contact me at manavb@umich.edu
+Unfortuantely, due to the honor code at my school, I cannot post the solution project for the time being. I have attached sample input files so that you may get an idea of the problem that was trying to be solved. If you are a recruiter and would like to see this project, please contact me at manavb@umich.edu
